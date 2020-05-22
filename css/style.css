@@ -30,6 +30,8 @@ div {
 #imagem {
     width: 200px;
     border-radius: 50%;
+    border: 5px solid #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.300);
 }
 
 footer {
